@@ -12,22 +12,22 @@ In this exploratory data analysis project we will insights from Layoffs dataset.
 
 ## Visualizations and conclusions derived
 
-1 - Top Carriers by No of Flight
+1 - Companies with Top Layoffs
 
-2 - Distribution of Ticket Prices
+2 - Layoffs by Companies across Sectors
 
-3 - Histogram of Ticket Prices
+3 - Countries that are Mostly affected by layoffs
 
-4- Busiest Air Routes in the DataSet 
+4- City with Most no of Layoffs 
 
-5 - Airports with Most no of Departure
+5 - Comparison of Layoffs to Previous Years
 
-6 - Frequent Destination
+6 - Total no of Layoffs - Year wise calculation
 
-7 - Peak Day of the Month
+7 - Sectorwise layoffs compared to previous Years
 
-8 - Tariff on Individual Days
+8 - Most Affected Sector in India
 
-9 - Tariff on Individual Days
+9 - Most Affected Locations in India 
 
-10 - Peak Hour for Departure
+10 - No of Layoffs in Each Country
